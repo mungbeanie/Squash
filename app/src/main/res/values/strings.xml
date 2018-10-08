@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Squash</string>
+    <string name="squash_scores">Squash Scores</string>
+    <string name="matchup_title">Matchup</string>
+    <string name="begin_button">BEGIN</string>
+    <string name="record_score_button">RECORD</string>
+</resources>
